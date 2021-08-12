@@ -126,6 +126,10 @@ tr>td:nth-child(10) {
     text-align: right;
 }
 
+ul {
+    list-style-type: square;
+    display: inline-block;
+}
 
 /* small screen adjustments*/
 @media(max-width: 767px) {
